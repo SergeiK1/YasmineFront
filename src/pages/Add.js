@@ -22,7 +22,7 @@ export default function Add() {
     e.preventDefault()
     try {
       console.log(message)
-      await axios.post("https://iloveyasmine-af13d9296f80.herokuapp.com//messages", message)
+      await axios.post("https://iloveyasmine-af13d9296f80.herokuapp.com/messages", message)
       navigate("/")
     } catch(err) {
       console.log(err)

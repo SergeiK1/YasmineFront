@@ -12,7 +12,7 @@ export default function Messages() {
     useEffect(() => {
       const fetchAllMessages = async () => {
         try {
-          const res = await axios.get('https://iloveyasmine-af13d9296f80.herokuapp.com/messages');
+          const res = await axios.get('https://yasminemylove-3614f9f411ab.herokuapp.com/messages');
           setMessages(res.data);
         } catch (err) {
           console.log(err);

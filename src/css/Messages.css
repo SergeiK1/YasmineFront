@@ -3,8 +3,11 @@
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    height: 50vh;
-    gap: 10px;
+    /* height: 50vh; */
+    /* gap: 10px; */
+    margin-left: 8%;
+    margin-right: 8%;
+    margin-top: 10%;
   }
   
   /* .button {
@@ -32,7 +35,7 @@
   font-size: 1rem;
   justify-content: center;
   line-height: 1.5rem;
-  padding: 3.5%;
+  padding: 4.5%;
   position: relative;
   text-align: left;
   transition: .2s;
@@ -43,7 +46,7 @@
   width: max-content;
   word-break: normal;
   word-spacing: normal;
-  margin: 0.23%;
+  margin: 1%;
 }
 
 .button:hover {
@@ -95,8 +98,12 @@
     color: white;
     text-align: center;
     justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
     margin-bottom: 1%;
+    font-weight: 300;
+    line-height: 2.6rem;
     padding: 5%;
+    margin: 26%;
   }
 
 

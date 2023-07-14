@@ -13,6 +13,7 @@ export default function Messages() {
       const fetchAllMessages = async () => {
         try {
           const res = await axios.get('https://yasminemylove-3614f9f411ab.herokuapp.com/messages');
+          // const res = await axios.get('http://localhost:8800/messages');
           setMessages(res.data);
         } catch (err) {
           console.log(err);

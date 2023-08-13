@@ -11,6 +11,7 @@ import {
 
 function App() {
   return (
+    <>
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<Messages/>}/>
@@ -18,6 +19,8 @@ function App() {
         <Route path="/video" element={<Video />}/>
       </Routes>
     </BrowserRouter>
+    <link rel="icon" type="image/x-icon" href="https://yasminemylove-3614f9f411ab.herokuapp.com/favicon.ico" />
+    </>
   );
 }
 

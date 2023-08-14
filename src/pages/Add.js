@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import '../css/Add.css'; // Import CSS file for component styling
 import axios from "axios";
-// import { useNavigate } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
 
 export default function Add() {
   const [selectedCategory, setSelectedCategory] = useState('');
@@ -11,7 +11,7 @@ export default function Add() {
     setSelectedCategory(e.target.value);
   };
 
-  // const navigate = useNavigate();
+  const navigate = useNavigate();
 
   const [message, setMessage] = useState({
     type: "",
@@ -24,7 +24,7 @@ export default function Add() {
       console.log(message)
       await axios.post("https://yasminemylove-3614f9f411ab.herokuapp.com/messages", message)
       // await axios.post("http://localhost:8800/messages", message)
-      // navigate("/")
+      navigate("/")
       console.log("added successfully")
     } catch(err) {
       console.log(err)

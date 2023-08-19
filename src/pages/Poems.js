@@ -5,12 +5,12 @@ import '../css/Poems.css'; // Import CSS file for component styling
 const poemsData = [
     {
       title: 'Poem 1',
-      image: 'poem1.jpg',
+      image: './images/poem1.jpg',
       text: 'Lorem ipsum dolor sit amet...',
     },
     {
       title: 'Poem 2',
-      image: 'poem2.jpg',
+      image: './images/poem2.jpg',
       text: 'Consectetur adipiscing elit...',
     },
     {

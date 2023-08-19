@@ -14,9 +14,9 @@ const poemsData = [
       text: 'From the moment I saw you \n My life became complete \n Not by some goal or purpose \n Or any little feat \n But by the simple feeling \n That everything felt right \n But simple not mean weak \n The feeling had quite might \n I knew I found my purpsoe, not one thing to ignore \n I knew that she is perfect \n One to spend the rest of my life with \n And for',
     },
     {
-        title: 'Poem 3',
+        title: 'She, to Him, IV',
         image: 'poem2.jpg',
-        text: 'Consectetur adipiscing elit...',
+        text: '... my being is but thine own-- \n Fused from its separateness by ecstasy. ',
       },
       {
         title: 'Poem 4',

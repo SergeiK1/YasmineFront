@@ -13,6 +13,22 @@ const poemsData = [
       image: 'poem2.jpg',
       text: 'Consectetur adipiscing elit...',
     },
+    {
+        title: 'Poem 3',
+        image: 'poem2.jpg',
+        text: 'Consectetur adipiscing elit...',
+      },
+      {
+        title: 'Poem 4',
+        image: 'poem2.jpg',
+        text: 'Consectetur adipiscing elit...',
+      },
+      {
+        title: 'Poem 5',
+        image: 'poem2.jpg',
+        text: 'Consectetur adipiscing elit...',
+      },
+
     // Add more poem data here
   ];
 

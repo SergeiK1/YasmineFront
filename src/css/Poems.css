@@ -6,6 +6,7 @@
     margin: 0 auto; /* Center the masonry layout horizontally */
     padding: 0 20px; /* Add padding to create white space on the sides */
     justify-content: center; /* Center items within the grid */
+    margin-top: 15%;
   }
   
   .masonry-item {

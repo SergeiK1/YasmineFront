@@ -6,7 +6,7 @@ const poemsData = [
     {
       title: 'Poem 1',
       image: './images/poem1.jpg',
-      text: 'Lorem ipsum dolor sit amet...',
+      text: 'My love to me you are \n A dreamy shooting star \n a perfect living miracle \n within my very arms ',
     },
     {
       title: 'Poem 2',

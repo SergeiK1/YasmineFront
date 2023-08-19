@@ -2,6 +2,7 @@ import './App.css';
 import Messages from "./pages/Messages"
 import Add from "./pages/Add";
 import Video from "./pages/Video";
+import Poems from "./pages/Poems"
 import {
   BrowserRouter,
   Routes,
@@ -17,6 +18,7 @@ function App() {
         <Route path="/" element={<Messages/>}/>
         <Route path="/add" element={<Add/>}/>
         <Route path="/video" element={<Video />}/>
+        <Route path="/poems" element={<Poems />}/>
       </Routes>
     </BrowserRouter>
     </>

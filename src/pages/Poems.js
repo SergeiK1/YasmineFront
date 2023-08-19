@@ -19,9 +19,9 @@ const poemsData = [
         text: '... my being is but thine own-- \n Fused from its separateness by ecstasy. ',
       },
       {
-        title: 'Poem 4',
+        title: 'Darkness to Bliss',
         image: 'poem2.jpg',
-        text: 'Consectetur adipiscing elit...',
+        text: 'The darkness envelops me once more \n As my mind begins to drift \n Trillions of thoughts makw way for one \n Beautiful girl thats in my mind forever \n Making the every day interesting \n The sadness a bliss \n The one who showed me love \n And taught me how to \n I love this girl with all my heart \n Forever thanking the forces that brought her to me \n You are my one, \n Yasmine',
       },
       {
         title: 'Poem 5',

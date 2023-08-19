@@ -6,12 +6,12 @@ const poemsData = [
     {
       title: 'Star',
       image: './images/poem1.jpg',
-      text: 'My love to me you are \n A dreamy shooting star \n A perfect living miracle \n Within my very arms \n\n You brighten up my day \n Despite the deep dark night \n I stare at you, thank god \n He brought to this light ',
+      text: 'My love to me you are \n A dreamy shooting star \n A perfect living miracle \n Within my very arms \n\n You brighten up my day \n Despite the deep dark night \n I stare at you, thank god \n He brought me to this light ',
     },
     {
-      title: 'Poem 2',
+      title: 'Till Death Do Us Part',
       image: './images/poem2.jpg',
-      text: 'Consectetur adipiscing elit...',
+      text: 'From the moment I saw you \n My life became complete \n Not by some goal or purpose \n Or any little feat \n But by the simple feeling \n That everything felt right \n But simple not mean weak \n The feeling had quite might \n I knew I found my purpsoe, not one thing to ignore \n I knew that she is perfect \n One to spend the rest of my life with \n And for',
     },
     {
         title: 'Poem 3',

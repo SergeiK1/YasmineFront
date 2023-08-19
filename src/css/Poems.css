@@ -33,6 +33,7 @@
   
   .masonry-item h3 {
     margin: 10px 0;
+    font-weight: bold;
   }
   
   .masonry-item p {

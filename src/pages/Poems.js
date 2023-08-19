@@ -40,7 +40,11 @@ export default function Poems() {
       <div className="masonry-item" key={index}>
         <img src={poem.image} alt={poem.title} />
         <h3>{poem.title}</h3>
-        <p>{poem.text}</p>
+        <p
+            dangerouslySetInnerHTML={{
+              __html: poem.text.replace(/\n/g, '<br />'), // Replace \n with <br /> for line breaks
+            }}
+          />
       </div>
     ))}
   </div>

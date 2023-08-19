@@ -16,7 +16,11 @@
     box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
     transition: transform 0.2s ease-in-out;
     cursor: pointer;
+    font-size: 16px; /* Adjust the font size as needed */
+    font-family: Georgia, serif;
+    color: #555;
   }
+  
   
   .masonry-item:hover {
     transform: scale(1.05);

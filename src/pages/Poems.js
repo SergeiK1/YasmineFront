@@ -4,9 +4,9 @@ import '../css/Poems.css'; // Import CSS file for component styling
 
 const poemsData = [
     {
-      title: 'Poem 1',
+      title: 'Star',
       image: './images/poem1.jpg',
-      text: 'My love to me you are \n A dreamy shooting star \n a perfect living miracle \n within my very arms ',
+      text: 'My love to me you are \n A dreamy shooting star \n A perfect living miracle \n Within my very arms \n\n You brighten up my day \n Despite the deep dark night \n I stare at you, thank god \n He brought to this light ',
     },
     {
       title: 'Poem 2',

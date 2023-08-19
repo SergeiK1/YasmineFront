@@ -24,9 +24,9 @@ const poemsData = [
         text: 'The darkness envelops me once more \n As my mind begins to drift \n Trillions of thoughts makw way for one \n Beautiful girl thats in my mind forever \n Making the every day interesting \n The sadness a bliss \n The one who showed me love \n And taught me how to \n I love this girl with all my heart \n Forever thanking the forces that brought her to me \n You are my one, \n Yasmine',
       },
       {
-        title: 'Poem 5',
+        title: 'Confession',
         image: 'poem2.jpg',
-        text: 'Consectetur adipiscing elit...',
+        text: 'I do admit Im not the perfect man \n Or man at all the way that I treated you \n My little mind had carried but the things I needed \n The common sense that makes you trust and love \n\n I thus committed many crimes and lied \n To hide myself from harm that I brought you \n\n It is not right and does deserve a lash \n To teach this boy to love and to surpass \n To teach the boy the lesson: kind and care \n The lesson he must learn: be fair \n\n Yet passed some time the boy seemed to have learned \n To care to love to feel to cure \n Out of fear of losing you this boy dug holes \n He feared so much he seized to see the light \n Too scared to lose the only perfect thing life \n He took the path that led him near \n Yet after time the boy had found the light \n Had found to love \n To live \ To fight ',
       },
 
     // Add more poem data here

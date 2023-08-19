@@ -38,7 +38,7 @@ export default function Poems() {
     <div className="masonry-layout">
     {poemsData.map((poem, index) => (
       <div className="masonry-item" key={index}>
-        <img src={poem.image} alt={poem.title} />
+        {/* <img src={poem.image} alt={poem.title} /> */}
         <h3>{poem.title}</h3>
         <p
             dangerouslySetInnerHTML={{

@@ -2,6 +2,10 @@
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     grid-gap: 20px;
+    max-width: 1200px; /* Set a maximum width for the masonry layout */
+    margin: 0 auto; /* Center the masonry layout horizontally */
+    padding: 0 20px; /* Add padding to create white space on the sides */
+    justify-content: center; /* Center items within the grid */
   }
   
   .masonry-item {
